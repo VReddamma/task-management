@@ -1,0 +1,22 @@
+# FastAPI
+fastapi[standard]
+
+# Database
+sqlalchemy
+asyncmy
+alembic
+sqlalchemy[asyncio]
+
+# Data validation and configuration
+pydantic
+pydantic-settings
+email-validator
+
+# Environment variables
+python-dotenv
+
+# Testing (we'll use later)
+pytest
+httpx
+
+cryptography
